@@ -107,6 +107,7 @@ footer {
 @media (min-width: 992px) {
   .game {
     flex-direction: row;
+    height: 70vh;
   }
   .game-info {
     margin-left: -20vw;
